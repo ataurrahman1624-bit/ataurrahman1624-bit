@@ -82,31 +82,31 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:hamemapple2018@gmail.com">
+  <a href="mailto:ataurrahman1624@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="www.linkedin.com/in/ataur-rahman-b066303a4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://facebook.com/YOUR-USERNAME">
+  <a href="https://www.facebook.com/ataur.rahman.428193">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/mr_hamem">
+  <a href="https://www.instagram.com/ataur5239">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://threads.net/@mr_hamem">
+  <a href="#">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://x.com/@mr_hamem56">
+  <a href="#">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://wa.me/+8801884211059">
+  <a href="#">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
